@@ -24,5 +24,5 @@ On [YouTube](https://youtube.com/@exohirn), I document the process in public. He
 
 <p align="center">
   <b>Build. Test. Inspect. Share.</b><br>
-  <sub>For collaborations and sponsorships: <a href="mailto:hello@your-domain.com">hello@your-domain.com</a></sub>
+  <sub>For collaborations and sponsorships: <a href="mailto:exohirn@web.de">exohirn@web.de</a></sub>
 </p>
