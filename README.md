@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://your-website.com"><b>Website</b></a> &nbsp; / &nbsp;
+  <a href="https://exohirn.de"><b>Website</b></a> &nbsp; / &nbsp;
   <a href="https://youtube.com/@exohirn"><b>YouTube</b></a> &nbsp; / &nbsp;
   <a href="https://x.com/ExoHirn"><b>X</b></a> &nbsp; / &nbsp;
-  <a href="mailto:hello@your-domain.com"><b>Get in touch</b></a>
+  <a href="mailto:exohirn@web.de"><b>Get in touch</b></a>
 </p>
 
 <br>
