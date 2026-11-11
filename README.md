@@ -17,31 +17,8 @@ On [YouTube](https://youtube.com/@exohirn), I document the process in public. He
 
 ## Start here
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / MEMORY</sub>
-
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / WORKFLOWS</sub>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / EXPERIMENTS</sub>
-
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / WATCH THE PROCESS</sub>
-
-    </td>
-  </tr>
-</table>
 
 
-<br>
 
 ---
 
