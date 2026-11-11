@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/exohirn-header.png" width="100%" alt="ExoHirn. AI systems, built in the open.">
+  <img src="./Exohirn.png" width="100%" alt="ExoHirn. AI systems, built in the open.">
 </p>
 
 <p align="center">
